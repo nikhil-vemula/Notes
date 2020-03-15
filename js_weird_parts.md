@@ -1,4 +1,4 @@
-# Javascript for me
+# Javascript
 
 ## Global object and this object
 
